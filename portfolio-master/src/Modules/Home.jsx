@@ -35,7 +35,7 @@ const Home = ({ history }) => {
                   </span>
                   <br />
                   <span className="color-customBlue h1 font-weight-bold">
-                    I'm Shashank
+                    I'm Vinay
                   </span>
                   <br />
                   <span className="color-customBlueLight h3">
