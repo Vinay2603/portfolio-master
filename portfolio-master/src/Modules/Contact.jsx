@@ -76,13 +76,13 @@ const Contact = () => {
         <div className="mt-3 mb-3 pr-lg-5 pr-xs-3">
           <Button className="contact-btns bg-customBlue mr-2 shadow border-0 py-1">
             <FontAwesomeIcon size="1x" icon={faPhone} />
-            <span>8087673255</span>
+            <span>9766984527</span>
           </Button>
 
           <Button
             className="contact-btns bg-customBlue mr-2 shadow border-0 py-1"
             onClick={() =>
-              window.open("https://www.linkedin.com/in/shashank-borkar-017/", "_blank")
+              window.open("https://www.linkedin.com/in/vinay-makade-239a38133/", "_blank")
             }
           >
             <FontAwesomeIcon size="1x" icon={faLinkedinIn} />
@@ -91,7 +91,7 @@ const Contact = () => {
           <Button
             className="contact-btns bg-customBlue mr-2 shadow border-0 py-1"
             onClick={() =>
-              window.open("https://github.com/ShashankSKB", "_blank")
+              window.open("https://github.com/Vinay2603", "_blank")
             }
           >
             <FontAwesomeIcon size="1x" icon={faGithub} />
@@ -102,7 +102,7 @@ const Contact = () => {
             className="contact-btns bg-customBlue shadow border-0 py-1 px-2"
             onClick={() =>
               window.open(
-                'mailto:shashankborkar16@gmail.com?subject="Hello !"',
+                'mailto:vinaymakade@gmail.com?subject="Hello !"',
                 "_blank"
               )
             }
