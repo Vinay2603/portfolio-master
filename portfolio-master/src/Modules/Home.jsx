@@ -58,7 +58,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://github.com/ShashankSKB"
+                      href="https://github.com/Vinay2603"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faGithubSquare} />
@@ -66,7 +66,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://www.linkedin.com/in/shashank-borkar-017/"
+                      href="https://www.linkedin.com/in/vinay-makade-239a38133/"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faLinkedin} />
