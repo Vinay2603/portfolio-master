@@ -58,7 +58,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://github.com/ShashankSKB"
+                      href="https://github.com/Vinay2603"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faGithubSquare} />
@@ -66,7 +66,7 @@ const Home = ({ history }) => {
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://www.linkedin.com/in/shashank-borkar-017/"
+                      href="https://www.linkedin.com/in/vinay-makade-239a38133/"
                       className="color-customBlue p-0 mr-3"
                     >
                       <FontAwesomeIcon size="2x" icon={faLinkedin} />
@@ -75,7 +75,7 @@ const Home = ({ history }) => {
                   <br />
                   <Button
                     className="bg-customBlue font-weight-bold shadow border-0"
-                    onClick={() => window.open("/resume2.pdf", "_blank")}
+                    onClick={() => window.open("/fw_12_069_vinay_makade.pdf", "_blank")}
                   >
                     Resume
                   </Button>
@@ -85,7 +85,7 @@ const Home = ({ history }) => {
             <div className="w-50 my-auto d-none d-md-block ">
               {/* <CodingSvg /> */}
               <Image
-                src="images/skb2.png"
+                src="images/Vinay-img-portfolio_3.png"
                 thumbnail
                 fluid
                 className="profilePic"
