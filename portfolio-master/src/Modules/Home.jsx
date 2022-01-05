@@ -75,7 +75,7 @@ const Home = ({ history }) => {
                   <br />
                   <Button
                     className="bg-customBlue font-weight-bold shadow border-0"
-                    onClick={() => window.open("/resume2.pdf", "_blank")}
+                    onClick={() => window.open("/fw_12_069_vinay_makade.pdf", "_blank")}
                   >
                     Resume
                   </Button>
