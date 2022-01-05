@@ -65,7 +65,23 @@ const About = () => {
           className="pr-lg-5 pr-xs-3 text-wrap color-customBlueLight"
           style={{ fontSize: descFontSize }}
         >
-          During my college days when I was pursuing Btech in Computer Engineering, I really got interested in coding, this is when I also started interacting with web development and decided to pursue a career as a Software Developer. Soon after my graduation, to further nurture and develop my skills I joined a coding bootcamp and got hands on training in the MERN stack and also improved my problem solving ability through practicing Data Structures & Algorithms. Now, I feel confident and want to apply my skills that I have picked up over the years to start my career as a Developer and build amazing user-centric applications which solve real world problems!
+            Being a student of core branch coding was a very unpleasant experience for me.
+             Until I wrote my first code during college.
+              Before I realized it, the thing I feared,
+               became the source of my passion and the career path I would pursue.
+
+               This is when I  started interacting
+              with web development and decided to pursue a career as a Software Developer.
+             Soon after my graduation, to further nurture and develop my skills I joined 
+             a coding bootcamp and got hands on training in the MERN stack and also improved 
+             my problem solving ability through practicing Data Structures & Algorithms.
+              Now, I feel confident and want to apply my skills that I have picked up over 
+              the years to start my career as a Developer and build amazing user-centric applications 
+              which solve real world problems!
+      
+
+
+
         </h5>
         <br />
 
