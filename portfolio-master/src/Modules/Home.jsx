@@ -85,7 +85,7 @@ const Home = ({ history }) => {
             <div className="w-50 my-auto d-none d-md-block ">
               {/* <CodingSvg /> */}
               <Image
-                src="images/skb2.png"
+                src="images/Vinay-img-portfolio_3.png"
                 thumbnail
                 fluid
                 className="profilePic"
