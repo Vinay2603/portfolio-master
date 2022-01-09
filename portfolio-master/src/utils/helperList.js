@@ -109,14 +109,7 @@ export const projectsList = [
     description: "Purplle.com is an Indian multi-brand beauty retailer selling cosmetic and wellness products.",
     stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
-  {
-    label: "Movie Search API",
-    imgSrc: "images/Movie-Search-API.png",
-    src: "https://vinay2603.github.io/movieApp/",
-    githubSrc: "https://github.com/Vinay2603/movieApp",
-    description: "Search for your favourite movie to know more about it",
-    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
-  },
+  
  
   
 ];
