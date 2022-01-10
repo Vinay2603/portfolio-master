@@ -99,7 +99,7 @@ export const projectsList = [
     src: "https://hemantjayas.github.io/HealthKart/",
     githubSrc: "https://github.com/Dhruvkagrawal/HealtKart.com-Clone",
     description: "An online portal for Dietary supplements and health devices ",
-    stack: ["EJS","HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+    stack: ["https://cdn.svgporn.com/logos/html-5.svg", "https://cdn.svgporn.com/logos/css-3.svg", "https://cdn.svgporn.com/logos/express.svg", "https://cdn.svgporn.com/logos/mongodb.svg", "https://cdn.svgporn.com/logos/nodejs-icon.svg", "https://cdn.svgporn.com/logos/javascript.svg"],
   },
   {
     label: "Purplle Clone",
@@ -107,7 +107,7 @@ export const projectsList = [
     src: "https://purple-com.vercel.app",
     githubSrc: "https://github.com/Vinay2603/purple.com",
     description: "Purplle.com is an Indian multi-brand beauty retailer selling cosmetic and wellness products.",
-    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+    stack: ["https://cdn.svgporn.com/logos/html-5.svg", "https://cdn.svgporn.com/logos/css-3.svg", "https://cdn.svgporn.com/logos/express.svg", "https://cdn.svgporn.com/logos/mongodb.svg", "https://cdn.svgporn.com/logos/nodejs-icon.svg", "https://cdn.svgporn.com/logos/javascript.svg"],
   },
   
  
