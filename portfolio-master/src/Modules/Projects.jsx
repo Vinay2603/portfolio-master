@@ -59,10 +59,8 @@ const Projects = () => {
                 )}
                 <div className="badgeDiv">
                   {proj.stack?.map((el) => (
-                    <Badge pill className="badge badge-light">
-                      <img src={el} style={{
-                         width: "30px" 
-                      }}  />
+                    <Badge pill className="badge">
+                      {el}
                     </Badge>
                   ))}
                 </div>
