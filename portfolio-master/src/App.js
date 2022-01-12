@@ -10,6 +10,7 @@ import About from "./Modules/About";
 function App() {
   return (
     <BrowserRouter>
+        
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/skills" component={Skills} />

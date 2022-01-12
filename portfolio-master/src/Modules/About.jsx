@@ -70,8 +70,7 @@ const About = () => {
               Before I realized it, the thing I feared,
                became the source of my passion and the career path I would pursue.
 
-               This is when I  started interacting
-              with web development and decided to pursue a career as a Software Developer.
+              
              Soon after my graduation, to further nurture and develop my skills I joined 
              a coding bootcamp and got hands on training in the MERN stack and also improved 
              my problem solving ability through practicing Data Structures & Algorithms.
