@@ -93,6 +93,7 @@ export const backSkillsList = [
 ];
 
 export const projectsList = [
+  
   {
     label: "HealtKart Clone",
     imgSrc: "images/healtkart_landing_page.png",
@@ -102,12 +103,20 @@ export const projectsList = [
     stack: ["EJS","HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
   },
   {
+    label: "Instagram Clone",
+    imgSrc: "images/instagram_landing_page.png",
+    src: "https://frontend-dipankar-gitworld.vercel.app/",
+    githubSrc: "https://github.com/avinashpanchal123/instagram-clone",
+    description: "A social media platform to connect with people.",
+    stack: ["React", "CSS", "Express", "Mongoose", "Node.js", "Javascript","Socket.io"],
+  },
+  {
     label: "Purplle Clone",
     imgSrc: "images/Purplle.com-landing-page.png",
     src: "https://purple-com.vercel.app",
     githubSrc: "https://github.com/Vinay2603/purple.com",
     description: "Purplle.com is an Indian multi-brand beauty retailer selling cosmetic and wellness products.",
-    stack: ["HTML", "CSS", "Express", "Mongoose", "Node.js", "Javascript"],
+    stack: ["HTML", "CSS",  "Node.js", "Javascript"],
   },
   
  
